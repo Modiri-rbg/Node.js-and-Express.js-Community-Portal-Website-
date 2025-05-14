@@ -1,0 +1,38 @@
+.AboutMain {
+  padding: 40px 20px;
+  background-color: #ecf0f1;
+  min-height: 70vh;
+}
+
+.AboutContainer {
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #2c3e50;
+}
+
+.AboutContainer h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.AboutIntro {
+  font-size: 16px;
+  color: #34495e;
+  margin-bottom: 30px;
+}
+
+.AboutSection {
+  margin-bottom: 30px;
+}
+
+.AboutSection h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.AboutSection p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+}
